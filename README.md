@@ -1,0 +1,2 @@
+# scriptExamples
+javascript examples
